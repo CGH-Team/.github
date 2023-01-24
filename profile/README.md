@@ -1,5 +1,7 @@
 ## About CGH Discord Bot...
 
+<img src="https://avatars.githubusercontent.com/u/94438186?s=200&v=4" width=100px height=100px> <img src="https://cdn.discordapp.com/attachments/927468748334563348/1067264249589665852/avatar.png" width=100px height=100px> 
+
 - Bot: `CGH#7612`
 - Verified? `Yes`
 - A multi-function Discord Bot! `Fun` `Music` `Games` `Moderation`
@@ -14,5 +16,3 @@
 | `Soundbaord` | `chicken`, `scatman`, `money` |
 | `Search/info` | `weather`, `youtube`, `serverinfo` |
 | `Slash Commands` | `/eat`, `/userinfo`, `/meme` |
-
-<img src="https://avatars.githubusercontent.com/u/94438186?s=200&v=4"> 
